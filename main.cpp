@@ -2,7 +2,6 @@
 
 int main()
 {
-    std::cout << "Hello, world!" << std::endl;
-    std::cout << "This is from Hitesh Yadav M" << std::endl;
+    std::cout << "Hello, world! This is PES1UG21CS234" << std::endl;
     return 0;
 }
